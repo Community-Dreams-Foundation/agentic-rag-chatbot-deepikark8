@@ -1,0 +1,38 @@
+{
+  "session_id": "261f7fbb",
+  "user_id": "Deepika",
+  "created_at": "2026-02-17T06:32:41.646947",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-17T06:32:41.646994"
+    },
+    {
+      "role": "assistant",
+      "content": "$2.3 Million.",
+      "timestamp": "2026-02-17T06:32:41.648786"
+    },
+    {
+      "role": "user",
+      "content": "How many employees?",
+      "timestamp": "2026-02-17T06:32:58.208761"
+    },
+    {
+      "role": "assistant",
+      "content": "There are 50 employees.",
+      "timestamp": "2026-02-17T06:32:58.209411"
+    },
+    {
+      "role": "user",
+      "content": "Where are the offices?",
+      "timestamp": "2026-02-17T06:33:08.492726"
+    },
+    {
+      "role": "assistant",
+      "content": "The company has offices in three locations:\n\n1. San Francisco (HQ)\n2. New York\n3. London",
+      "timestamp": "2026-02-17T06:33:08.493654"
+    }
+  ],
+  "updated_at": "2026-02-17T06:33:08.493666"
+}
