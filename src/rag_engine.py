@@ -1,3 +1,5 @@
+import warnings
+warnings.filterwarnings('ignore')
 """
 RAG Engine - Core retrieval and answer generation
 Handles: document loading, embeddings, search, answering
