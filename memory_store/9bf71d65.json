@@ -1,0 +1,48 @@
+{
+  "session_id": "9bf71d65",
+  "user_id": "Deepika",
+  "created_at": "2026-02-18T05:36:10.922127",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T05:36:10.922538"
+    },
+    {
+      "role": "assistant",
+      "content": "$8.5 Million (Annual Revenue 2024).",
+      "timestamp": "2026-02-18T05:36:10.924811"
+    },
+    {
+      "role": "user",
+      "content": "who is the ceo?",
+      "timestamp": "2026-02-18T05:36:28.603795"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson - Chief Executive Officer (CEO).",
+      "timestamp": "2026-02-18T05:36:28.604721"
+    },
+    {
+      "role": "user",
+      "content": "how many employees does the company have?",
+      "timestamp": "2026-02-18T05:37:02.336459"
+    },
+    {
+      "role": "assistant",
+      "content": "According to the provided context, TechCorp has a total of 62 employees (50 full-time and 12 contractors).",
+      "timestamp": "2026-02-18T05:37:02.337995"
+    },
+    {
+      "role": "user",
+      "content": "compare the revenue and company count?",
+      "timestamp": "2026-02-18T05:37:33.787754"
+    },
+    {
+      "role": "assistant",
+      "content": "According to the provided context, TechCorp's Annual Revenue in 2024 is $8.5 Million and it has a total of 62 employees (50 full-time and 12 contractors).",
+      "timestamp": "2026-02-18T05:37:33.789176"
+    }
+  ],
+  "updated_at": "2026-02-18T05:37:33.789192"
+}

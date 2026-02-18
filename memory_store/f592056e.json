@@ -1,0 +1,18 @@
+{
+  "session_id": "f592056e",
+  "user_id": "D",
+  "created_at": "2026-02-17T23:40:59.440538",
+  "messages": [
+    {
+      "role": "user",
+      "content": "How many employee",
+      "timestamp": "2026-02-17T23:40:59.440547"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have enough information to answer that question confidently. Please make sure relevant documents are loaded.",
+      "timestamp": "2026-02-17T23:40:59.440745"
+    }
+  ],
+  "updated_at": "2026-02-17T23:40:59.440748"
+}

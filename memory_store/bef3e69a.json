@@ -1,0 +1,28 @@
+{
+  "session_id": "bef3e69a",
+  "user_id": "Deepika",
+  "created_at": "2026-02-18T01:38:52.870219",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T01:38:52.870333"
+    },
+    {
+      "role": "assistant",
+      "content": "$2.3 Million.",
+      "timestamp": "2026-02-18T01:38:52.871543"
+    },
+    {
+      "role": "user",
+      "content": "who is the CEO?",
+      "timestamp": "2026-02-18T01:39:05.743098"
+    },
+    {
+      "role": "assistant",
+      "content": "The CEO of TechCorp is Sarah Johnson.",
+      "timestamp": "2026-02-18T01:39:05.743720"
+    }
+  ],
+  "updated_at": "2026-02-18T01:39:05.743726"
+}

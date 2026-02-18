@@ -1,0 +1,28 @@
+{
+  "session_id": "b7a9990c",
+  "user_id": "d",
+  "created_at": "2026-02-18T19:41:53.050818",
+  "messages": [
+    {
+      "role": "user",
+      "content": "How much have CO2 emissions increased?",
+      "timestamp": "2026-02-18T19:41:53.050935"
+    },
+    {
+      "role": "assistant",
+      "content": "Global CO2 emissions reached a record high of 36.8 billion tonnes in 2023, indicating a significant increase from previous years. This represents a substantial rise in greenhouse gas emissions, primarily due to deforestation and other human activities.",
+      "timestamp": "2026-02-18T19:41:53.053500"
+    },
+    {
+      "role": "user",
+      "content": "What are our Q1 2025 goals?",
+      "timestamp": "2026-02-18T19:42:06.020026"
+    },
+    {
+      "role": "assistant",
+      "content": "Our Q1 2025 goals include launching an AI Assistant with a natural language interface for all products and a mobile app for iOS and Android, while also expanding to a new office in Austin, Texas. Additionally, we aim to reach revenue of $3.2 million for the quarter.",
+      "timestamp": "2026-02-18T19:42:06.020539"
+    }
+  ],
+  "updated_at": "2026-02-18T19:42:06.020545"
+}

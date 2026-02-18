@@ -1,0 +1,63 @@
+{
+  "status": "success",
+  "test_queries": 3,
+  "successful_responses": 3,
+  "results": [
+    {
+      "query": "What is the company revenue?",
+      "answer": "The company's total revenue for the year is $9,620,000 ($650,000 + $680,000 + ... + $1,020,000), indicating a significant growth in sales throughout the year. This revenue represents a substantial increase from the initial investment of $37 million.",
+      "sources": [
+        {
+          "file": "company_data.xlsx",
+          "type": "xlsx"
+        },
+        {
+          "file": "company_info.pdf",
+          "type": "pdf",
+          "page": 3
+        }
+      ],
+      "confidence": 1.0,
+      "grounded": true
+    },
+    {
+      "query": "Who is the CEO?",
+      "answer": "The CEO of the company is Sarah Johnson. She has a background as a former VP of Engineering at Google Cloud and was recognized by Forbes and Fortune for her achievements.",
+      "sources": [
+        {
+          "file": "company_info.pdf",
+          "type": "pdf",
+          "page": 2
+        },
+        {
+          "file": "company_info.pdf",
+          "type": "pdf",
+          "page": 2
+        }
+      ],
+      "confidence": 1.0,
+      "grounded": true
+    },
+    {
+      "query": "How many employees?",
+      "answer": "There are a total of 28 + 10 + 8 + 6 + 4 + 3 + 3 = 66 employees across all departments.",
+      "sources": [
+        {
+          "file": "company_info.pdf",
+          "type": "pdf",
+          "page": 2
+        },
+        {
+          "file": "company_data.xlsx",
+          "type": "xlsx"
+        }
+      ],
+      "confidence": 1.0,
+      "grounded": true
+    }
+  ],
+  "memory_files": {
+    "user_memory": true,
+    "company_memory": true
+  }
+}

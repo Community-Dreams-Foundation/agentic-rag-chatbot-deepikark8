@@ -1,0 +1,48 @@
+{
+  "session_id": "10fbf957",
+  "user_id": "Deepika",
+  "created_at": "2026-02-18T21:31:02.350009",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is our annual revenue for 2024?",
+      "timestamp": "2026-02-18T21:31:02.351200"
+    },
+    {
+      "role": "assistant",
+      "content": "Our annual revenue for 2024 is $8.5 Million, representing a 63% year-over-year growth from the $5.2 Million in revenue generated in 2023.",
+      "timestamp": "2026-02-18T21:31:02.355318"
+    },
+    {
+      "role": "user",
+      "content": "Summarize the presentation about Q1 goals",
+      "timestamp": "2026-02-18T21:31:10.159644"
+    },
+    {
+      "role": "assistant",
+      "content": "TechCorp's Q1 2025 marketing initiatives aim to drive business growth through a multi-faceted approach, including the launch of AI-powered features, content marketing, event sponsorships, and influencer partnerships. The expected outcome is generating 5,000 new leads within the quarter, with a budget of $1.2 million allocated for these efforts.",
+      "timestamp": "2026-02-18T21:31:10.162149"
+    },
+    {
+      "role": "user",
+      "content": "How many total customers do we have?",
+      "timestamp": "2026-02-18T21:31:25.800654"
+    },
+    {
+      "role": "assistant",
+      "content": "We currently have a total of 550 active customers, representing an increase from the initial 450 companies that were part of our Active Customers list. This represents a growth rate of 22% over the past month.",
+      "timestamp": "2026-02-18T21:31:25.801429"
+    },
+    {
+      "role": "user",
+      "content": "Who are our lead investors?",
+      "timestamp": "2026-02-18T21:31:29.960260"
+    },
+    {
+      "role": "assistant",
+      "content": "Our lead investor is Andreessen Horowitz (a16z), with Sequoia Capital also participating in the funding rounds.",
+      "timestamp": "2026-02-18T21:31:29.961645"
+    }
+  ],
+  "updated_at": "2026-02-18T21:31:29.961654"
+}

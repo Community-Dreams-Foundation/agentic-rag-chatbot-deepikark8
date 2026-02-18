@@ -1,0 +1,28 @@
+{
+  "session_id": "51deb5be",
+  "user_id": "Deepika",
+  "created_at": "2026-02-18T04:10:51.359677",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T04:10:51.359789"
+    },
+    {
+      "role": "assistant",
+      "content": "$2.3 Million",
+      "timestamp": "2026-02-18T04:10:51.361422"
+    },
+    {
+      "role": "user",
+      "content": "Who is the CEO?",
+      "timestamp": "2026-02-18T04:11:11.140008"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson.",
+      "timestamp": "2026-02-18T04:11:11.141225"
+    }
+  ],
+  "updated_at": "2026-02-18T04:11:11.141237"
+}

@@ -1,0 +1,18 @@
+{
+  "session_id": "133a260c",
+  "user_id": "Ram",
+  "created_at": "2026-02-18T16:56:38.885556",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Who is the CEO?",
+      "timestamp": "2026-02-18T16:56:38.885620"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson, former VP of Engineering at Google Cloud (8 years), serves as the Chief Executive Officer (CEO) of TechCorp.",
+      "timestamp": "2026-02-18T16:56:38.886868"
+    }
+  ],
+  "updated_at": "2026-02-18T16:56:38.886875"
+}

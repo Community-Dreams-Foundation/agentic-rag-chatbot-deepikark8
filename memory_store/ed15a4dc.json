@@ -1,0 +1,28 @@
+{
+  "session_id": "ed15a4dc",
+  "user_id": "d",
+  "created_at": "2026-02-18T19:08:10.589593",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is our revenue?",
+      "timestamp": "2026-02-18T19:08:10.589706"
+    },
+    {
+      "role": "assistant",
+      "content": "Our revenue has not been explicitly stated, but based on the context that we have raised $37 million for international expansion, enterprise product development, and team growth, it can be inferred that our revenue is likely to be a significant portion of this amount.",
+      "timestamp": "2026-02-18T19:08:10.591464"
+    },
+    {
+      "role": "user",
+      "content": "who is the ceo and the background?",
+      "timestamp": "2026-02-18T19:08:25.130653"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson is the CEO with a background as former VP of Engineering at Google Cloud for 8 years.",
+      "timestamp": "2026-02-18T19:08:25.131059"
+    }
+  ],
+  "updated_at": "2026-02-18T19:08:25.131064"
+}

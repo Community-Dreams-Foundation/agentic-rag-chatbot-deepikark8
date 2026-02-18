@@ -62,7 +62,187 @@
       "role": "assistant",
       "content": "There are 50 employees.",
       "timestamp": "2026-02-17T23:09:17.963421"
+    },
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T04:32:53.802785"
+    },
+    {
+      "role": "assistant",
+      "content": "The company revenue is $2.3 Million.",
+      "timestamp": "2026-02-18T04:32:53.804336"
+    },
+    {
+      "role": "user",
+      "content": "Who is the CEO?",
+      "timestamp": "2026-02-18T04:32:55.930726"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson.",
+      "timestamp": "2026-02-18T04:32:55.931619"
+    },
+    {
+      "role": "user",
+      "content": "How many employees?",
+      "timestamp": "2026-02-18T04:32:57.051216"
+    },
+    {
+      "role": "assistant",
+      "content": "There are 50 employees.",
+      "timestamp": "2026-02-18T04:32:57.052295"
+    },
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T04:51:50.292678"
+    },
+    {
+      "role": "assistant",
+      "content": "The company revenue is $2.3 Million.",
+      "timestamp": "2026-02-18T04:51:50.293703"
+    },
+    {
+      "role": "user",
+      "content": "Who is the CEO?",
+      "timestamp": "2026-02-18T04:51:51.521880"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson.",
+      "timestamp": "2026-02-18T04:51:51.522873"
+    },
+    {
+      "role": "user",
+      "content": "How many employees?",
+      "timestamp": "2026-02-18T04:51:52.510829"
+    },
+    {
+      "role": "assistant",
+      "content": "There are 50 employees.",
+      "timestamp": "2026-02-18T04:51:52.514519"
+    },
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T18:42:43.149574"
+    },
+    {
+      "role": "assistant",
+      "content": "The company revenue for the year 2024 is $8.5 Million.",
+      "timestamp": "2026-02-18T18:42:43.151021"
+    },
+    {
+      "role": "user",
+      "content": "Who is the CEO?",
+      "timestamp": "2026-02-18T18:42:47.931445"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson.",
+      "timestamp": "2026-02-18T18:42:47.932069"
+    },
+    {
+      "role": "user",
+      "content": "How many employees?",
+      "timestamp": "2026-02-18T18:42:53.478451"
+    },
+    {
+      "role": "assistant",
+      "content": "There are 62 employees, with 50 being full-time employees.",
+      "timestamp": "2026-02-18T18:42:53.479468"
+    },
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T20:01:23.162318"
+    },
+    {
+      "role": "assistant",
+      "content": "The company's total revenue for the year is $9,620,000 ($650,000 + $680,000 + ... + $1,020,000), indicating a significant growth in sales throughout the year. This revenue represents a substantial increase from the initial investment of $37 million.",
+      "timestamp": "2026-02-18T20:01:23.163002"
+    },
+    {
+      "role": "user",
+      "content": "Who is the CEO?",
+      "timestamp": "2026-02-18T20:01:26.523025"
+    },
+    {
+      "role": "assistant",
+      "content": "The CEO of the company is Sarah Johnson. She has a background as a former VP of Engineering at Google Cloud and was recognized by Forbes and Fortune for her achievements.",
+      "timestamp": "2026-02-18T20:01:26.524598"
+    },
+    {
+      "role": "user",
+      "content": "How many employees?",
+      "timestamp": "2026-02-18T20:01:29.039360"
+    },
+    {
+      "role": "assistant",
+      "content": "There are a total of 28 + 10 + 8 + 6 + 4 + 3 + 3 = 66 employees across all departments.",
+      "timestamp": "2026-02-18T20:01:29.041179"
+    },
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T20:24:30.245820"
+    },
+    {
+      "role": "assistant",
+      "content": "The company's total revenue for the year is $9,620,000 ($650,000 + $680,000 + ... + $1,020,000), indicating a significant growth in sales throughout the year. This revenue represents a substantial increase from the initial investment of $37 million.",
+      "timestamp": "2026-02-18T20:24:30.247437"
+    },
+    {
+      "role": "user",
+      "content": "Who is the CEO?",
+      "timestamp": "2026-02-18T20:24:34.214597"
+    },
+    {
+      "role": "assistant",
+      "content": "The CEO of the company is Sarah Johnson. She has a background as a former VP of Engineering at Google Cloud and was recognized by Forbes and Fortune for her achievements.",
+      "timestamp": "2026-02-18T20:24:34.217662"
+    },
+    {
+      "role": "user",
+      "content": "How many employees?",
+      "timestamp": "2026-02-18T20:24:37.183924"
+    },
+    {
+      "role": "assistant",
+      "content": "There are a total of 28 + 10 + 8 + 6 + 4 + 3 + 3 = 66 employees across all departments.",
+      "timestamp": "2026-02-18T20:24:37.186097"
+    },
+    {
+      "role": "user",
+      "content": "What is the company revenue?",
+      "timestamp": "2026-02-18T21:32:13.069615"
+    },
+    {
+      "role": "assistant",
+      "content": "The company's total revenue for the year is $9,620,000 ($650,000 + $680,000 + ... + $1,020,000), indicating a significant growth in sales throughout the year. This revenue represents a substantial increase from the initial investment of $37 million.",
+      "timestamp": "2026-02-18T21:32:13.073365"
+    },
+    {
+      "role": "user",
+      "content": "Who is the CEO?",
+      "timestamp": "2026-02-18T21:32:16.677084"
+    },
+    {
+      "role": "assistant",
+      "content": "The CEO of the company is Sarah Johnson. She has a background as a former VP of Engineering at Google Cloud and was recognized by Forbes and Fortune for her achievements.",
+      "timestamp": "2026-02-18T21:32:16.678708"
+    },
+    {
+      "role": "user",
+      "content": "How many employees?",
+      "timestamp": "2026-02-18T21:32:19.143351"
+    },
+    {
+      "role": "assistant",
+      "content": "There are a total of 28 + 10 + 8 + 6 + 4 + 3 + 3 = 66 employees across all departments.",
+      "timestamp": "2026-02-18T21:32:19.144798"
     }
   ],
-  "updated_at": "2026-02-17T23:09:17.963429"
+  "updated_at": "2026-02-18T21:32:19.144807"
 }

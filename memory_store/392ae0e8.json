@@ -1,0 +1,28 @@
+{
+  "session_id": "392ae0e8",
+  "user_id": "D",
+  "created_at": "2026-02-18T19:05:44.161731",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is our annaul revenue?",
+      "timestamp": "2026-02-18T19:05:44.161870"
+    },
+    {
+      "role": "assistant",
+      "content": "Annual Revenue Target: $15 Million. The company aims to achieve this with a 76% year-over-year growth from the previous year's annual revenue of $8.5 Million.",
+      "timestamp": "2026-02-18T19:05:44.165109"
+    },
+    {
+      "role": "user",
+      "content": "who is your ceo and what is the background of CEO?",
+      "timestamp": "2026-02-18T19:06:29.117881"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson is the Chief Executive Officer (CEO) of the company. She has a background as a former VP of Engineering at Google Cloud, with an MBA from Stanford GSB and BS Computer Science from MIT.",
+      "timestamp": "2026-02-18T19:06:29.118966"
+    }
+  ],
+  "updated_at": "2026-02-18T19:06:29.118975"
+}

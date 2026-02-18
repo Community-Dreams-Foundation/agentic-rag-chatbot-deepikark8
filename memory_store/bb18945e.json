@@ -1,0 +1,38 @@
+{
+  "session_id": "bb18945e",
+  "user_id": "Deepika",
+  "created_at": "2026-02-18T19:16:36.632598",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is our annual revenue?",
+      "timestamp": "2026-02-18T19:16:36.632887"
+    },
+    {
+      "role": "assistant",
+      "content": "Our annual revenue for 2024 is $8.5 Million.",
+      "timestamp": "2026-02-18T19:16:36.634525"
+    },
+    {
+      "role": "user",
+      "content": "who is the CEO and whats the background?",
+      "timestamp": "2026-02-18T19:17:03.174347"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson is the Chief Executive Officer (CEO) of the company, with a background as a former Vice President of Engineering at Google Cloud for 8 years.",
+      "timestamp": "2026-02-18T19:17:03.175285"
+    },
+    {
+      "role": "user",
+      "content": "who are the lead investors",
+      "timestamp": "2026-02-18T19:17:29.298884"
+    },
+    {
+      "role": "assistant",
+      "content": "The lead investor for Series A is Sequoia Capital, and for Series B, it's Andreessen Horowitz (a16z).",
+      "timestamp": "2026-02-18T19:17:29.299709"
+    }
+  ],
+  "updated_at": "2026-02-18T19:17:29.299717"
+}

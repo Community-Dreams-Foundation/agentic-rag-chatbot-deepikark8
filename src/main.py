@@ -86,7 +86,9 @@ def run_chatbot():
             if result["sources"]:
                 print(f"\n📚 Sources:")
                 for i, src in enumerate(result["sources"], 1):
-                    print(f"  {i}. {src['file']} | Page {src['page']}")
+                    page = src.get('page', None)
+                    page_display = f"| Page {page + 1}" if isinstance(page, int) else ""
+                    print(f"  {i}. {src['file']} {page_display}")
             
             print(f"\n💬 Requests this hour: {result['requests_used']}/100")
             print("-"*70 + "\n")

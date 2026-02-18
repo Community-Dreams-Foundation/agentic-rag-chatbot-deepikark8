@@ -1,0 +1,28 @@
+{
+  "session_id": "5a12d262",
+  "user_id": "Deepika",
+  "created_at": "2026-02-18T19:02:22.637883",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is the annual revenue for 2024?",
+      "timestamp": "2026-02-18T19:02:22.638188"
+    },
+    {
+      "role": "assistant",
+      "content": "The annual revenue for TechCorp in 2024 is $8.5 Million.",
+      "timestamp": "2026-02-18T19:02:22.640042"
+    },
+    {
+      "role": "user",
+      "content": "who is the ceo and what is her background?",
+      "timestamp": "2026-02-18T19:02:58.257840"
+    },
+    {
+      "role": "assistant",
+      "content": "The CEO is Sarah Johnson. Her background includes:\n\n* Former VP of Engineering at Google Cloud (8 years)\n* MBA from Stanford GSB\n* BS Computer Science from MIT\n* Led Google Cloud ML platform to $2B revenue\n* Recognition as Forbes 30 Under 30 (2018) and Fortune 40 Under 40 (2023).",
+      "timestamp": "2026-02-18T19:02:58.259489"
+    }
+  ],
+  "updated_at": "2026-02-18T19:02:58.259496"
+}
