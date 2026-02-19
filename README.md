@@ -14,7 +14,7 @@ Built for CDF Agentic RAG Hackathon Challenge (Feb 2026)
 
 ## 🚀 Quick Start
 ```bash
-cat > README.md << 'EOF'
+
 # 🤖 Agentic RAG Chatbot
 
 **Author**: Deepika Rajakumar  
