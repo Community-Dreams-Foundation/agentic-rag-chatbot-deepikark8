@@ -1,0 +1,48 @@
+{
+  "session_id": "7aa48d05",
+  "user_id": "Deepika",
+  "created_at": "2026-02-18T23:00:16.985307",
+  "messages": [
+    {
+      "role": "user",
+      "content": "whast is our annual revenue for 2024?",
+      "timestamp": "2026-02-18T23:00:16.985728"
+    },
+    {
+      "role": "assistant",
+      "content": "Our annual revenue for 2024 is $8.5 Million, representing a 63% year-over-year growth from the $5.2 Million in revenue generated in 2023.",
+      "timestamp": "2026-02-18T23:00:16.987866"
+    },
+    {
+      "role": "user",
+      "content": "who is the CEO and what is the background?",
+      "timestamp": "2026-02-18T23:00:39.881887"
+    },
+    {
+      "role": "assistant",
+      "content": "Sarah Johnson is the Chief Executive Officer (CEO), with a background as the former VP of Engineering at Google Cloud for 8 years.",
+      "timestamp": "2026-02-18T23:00:39.882373"
+    },
+    {
+      "role": "user",
+      "content": "who are our lead investors?",
+      "timestamp": "2026-02-18T23:00:55.702552"
+    },
+    {
+      "role": "assistant",
+      "content": "Our lead investor is Andreessen Horowitz (a16z), with Sequoia Capital also participating in the funding rounds.",
+      "timestamp": "2026-02-18T23:00:55.703398"
+    },
+    {
+      "role": "user",
+      "content": "what are our Q1 goals?",
+      "timestamp": "2026-02-18T23:01:23.415479"
+    },
+    {
+      "role": "assistant",
+      "content": "Our Q1 goals for Marketing Initiatives include launching a new AI Revolution Campaign, creating and publishing 50 blog posts and 10 whitepapers, sponsoring 3 major tech conferences, hosting weekly product demonstrations through a webinar series, partnering with 10 tech influencers, and generating 5,000 new leads.",
+      "timestamp": "2026-02-18T23:01:23.416271"
+    }
+  ],
+  "updated_at": "2026-02-18T23:01:23.416276"
+}

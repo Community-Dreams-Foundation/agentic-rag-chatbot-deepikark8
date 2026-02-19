@@ -1,0 +1,68 @@
+{
+  "session_id": "a7d1d881",
+  "user_id": "Deepika",
+  "created_at": "2026-02-18T22:34:38.564477",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is our annual revenue for 2024?",
+      "timestamp": "2026-02-18T22:34:38.564569"
+    },
+    {
+      "role": "assistant",
+      "content": "Our annual revenue for 2024 is $8.5 Million, representing a 63% year-over-year growth from the $5.2 Million in revenue generated in 2023.",
+      "timestamp": "2026-02-18T22:34:38.572783"
+    },
+    {
+      "role": "user",
+      "content": "How many total customers do we have?",
+      "timestamp": "2026-02-18T22:34:45.228923"
+    },
+    {
+      "role": "assistant",
+      "content": "We currently have a total of 550 active customers, representing an increase from the initial 450 companies that were part of our Active Customers list. This represents a growth rate of 22% over the past month.",
+      "timestamp": "2026-02-18T22:34:45.229727"
+    },
+    {
+      "role": "user",
+      "content": "How much have CO2 emissions increased?",
+      "timestamp": "2026-02-18T22:34:55.721383"
+    },
+    {
+      "role": "assistant",
+      "content": "Global CO2 emissions reached a record high of 36.8 billion tonnes in 2023, indicating a significant increase from previous years. This represents a substantial rise in greenhouse gas emissions, primarily due to deforestation and other human activities.",
+      "timestamp": "2026-02-18T22:34:55.723260"
+    },
+    {
+      "role": "user",
+      "content": "Who is the Marketing Director?",
+      "timestamp": "2026-02-18T22:35:01.332869"
+    },
+    {
+      "role": "assistant",
+      "content": "The Marketing Director is Jennifer Smith.",
+      "timestamp": "2026-02-18T22:35:01.334130"
+    },
+    {
+      "role": "user",
+      "content": "What new features are coming in Q1 2025?",
+      "timestamp": "2026-02-18T22:35:16.315438"
+    },
+    {
+      "role": "assistant",
+      "content": "In Q1 2025, the company plans to launch an AI Assistant with a natural language interface for all products and a mobile app for iOS and Android.",
+      "timestamp": "2026-02-18T22:35:16.317124"
+    },
+    {
+      "role": "user",
+      "content": "What are our target markets?",
+      "timestamp": "2026-02-18T22:35:32.163548"
+    },
+    {
+      "role": "assistant",
+      "content": "Our primary target market is enterprise companies with 500+ employees, while our secondary target market consists of mid-market companies with 100-500 employees.",
+      "timestamp": "2026-02-18T22:35:32.164687"
+    }
+  ],
+  "updated_at": "2026-02-18T22:35:32.164695"
+}
