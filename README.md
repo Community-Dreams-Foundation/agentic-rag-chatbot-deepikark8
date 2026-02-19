@@ -50,7 +50,7 @@ make sanity  # Run tests
 
 ## 📹 Video Walkthrough
 
-https://drive.google.com/file/d/1eQzVoXHx_pUTsNVw9OS3HRVrM03PXAOm/view?usp=drive_link
+https://drive.google.com/file/d/1BRnYspMZEDJJbQBuXprQxdJxjyciM9Eg/view?usp=drive_link
 
 ## 🏗️ Architecture
 
