@@ -50,7 +50,7 @@ make sanity  # Run tests
 
 ## 📹 Video Walkthrough
 
-[Demo video link will be added here]
+https://drive.google.com/file/d/1eQzVoXHx_pUTsNVw9OS3HRVrM03PXAOm/view?usp=drive_link
 
 ## 🏗️ Architecture
 
@@ -78,6 +78,4 @@ Produces: `artifacts/sanity_output.json`
 - LangChain framework
 - Python 3
 
-## 🎯 Built Using Vibe Coding
 
-Developed with Claude AI assistance for architecture, code generation, and best practices.
